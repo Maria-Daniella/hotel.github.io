@@ -44,7 +44,7 @@ img{max-width:100%;}
 	list-style: none;
    }
 .splash  {
-	background:rgba(0,0,0,0.5) url(../images/bg.jpg);
+	background:rgba(0,0,0,0.5) url(bg.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -54,7 +54,7 @@ img{max-width:100%;}
 
 
 body.unsplash  {
-	background:rgba(0,0,0,0.5) url(../images/splash.jpg);
+	background:rgba(0,0,0,0.5) url(splash.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -62,17 +62,17 @@ body.unsplash  {
 	
 }
 body.gallery{
-	background:rgba(0,0,0,0.5) url(../images/splash.jpg);
+	background:rgba(0,0,0,0.5) url(splash.jpg);
 	background-blend-mode: darken;
 }
 body.service{
-	background:rgba(0,0,0,0.5) url(../images/splash.jpg);
+	background:rgba(0,0,0,0.5) url(splash.jpg);
 	background-blend-mode: darken;
 	color: grey;
 
 }
 body.contact{
-	background:rgba(0,0,0,0.5) url(../images/splash.jpg);
+	background:rgba(0,0,0,0.5) url(splash.jpg);
 	background-blend-mode: darken;
 	color: black;
 

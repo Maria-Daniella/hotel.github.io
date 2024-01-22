@@ -207,32 +207,7 @@ body.contact{
 	padding: 5px 14px;
    }
    /* DROPDOWN MENU */
-   .services {
-	position: relative; 
-   }
-   .dropdown {
-	
-	padding: 1em 0;
-	position: absolute; /*WITH RESPECT TO PARENT*/
-	display: none;
-	border-radius: 8px;
-	top: 35px;
-	background-color: black;
-   }
-   .dropdown li + li {
-	margin-top: 10px;
-   }
-   .dropdown li {
-	padding: 0.5em 1em;
-	width: 8em;
-	text-align: center;
-   }
-   .dropdown li:hover {
-	background-color: grey;
-   }
-   .services:hover .dropdown {
-	display: block;
-   }
+ 
 /*end reset*/
 /*=============================
  * start-wrap
